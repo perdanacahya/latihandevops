@@ -1,0 +1,127 @@
+    1  python 
+    2  sudo apt-get update
+    3  sudo apt-get upgrade
+    4  ssh
+    5  ifconfig
+    6  sudo apt install net-tools
+    7  ifconfig
+    8  apt-get update
+    9  sudo apt-get update
+   10  sudo ifconfig
+   11  ifconfig
+   12  sudo apt install net-tools
+   13  ifconfig
+   14  sudo apt-get install openssh-server
+   15  sudo reboot
+   16  python 
+   17  python 3
+   18  python3
+   19  alias
+   20  cd ..
+   21  pwd
+   22  ls
+   23  cd etc
+   24  ls
+   25  env
+   26  echo $PATH
+   27  which ssh
+   28  man useradd
+   29  q
+   30  man ssh
+   31  apropos user
+   32  adduser kurakura
+   33  sudo adduser kurakura
+   34  cat /etc/passwd
+   35  ls -alh /home
+   36  cat /etc/passwd
+   37  umask
+   38  exit
+   39  ifconfig
+   40  ifconfig
+   41  pwd
+   42  sudo su
+   43  umask
+   44  ls
+   45  touch filex
+   46  ls -lrt filex
+   47  chmod 0700 filex
+   48  ls -lrt filex
+   49  which ssh
+   50  ls -alh /usr/bin/ssh
+   51  conntrack
+   52  sudo apt install conntrack
+   53  which conntract
+   54  sudo su 
+   55  conntrac
+   56  which conntrack
+   57  adduser latihan2
+   58  sudo latihan2
+   59  sudo adduser latihan2
+   60  su latihan2
+   61  sudo usermod -aG latihan2
+   62  sudo usermod -aG sudo latihan2
+   63  su latihan2
+   64  su latihan2
+   65  visudo
+   66  sudo visudo
+   67  sudo adduser superman
+   68  sudo adduser superuser
+   69  sudo usermod -aG sudo superuser
+   70  sudo su superuser
+   71  sudo su - superuser
+   72  mkdir latihandevops
+   73  cd latihandevops/
+   74  git init .
+   75  git config -s
+   76  git config man
+   77  git config --help
+   78  git config user.name
+   79  git config user.email
+   80  echo "latihan devops" >> readme.md
+   81  git add readme.md 
+   82  git status
+   83  git commit -m "initial commit"
+   84  git status
+   85  git branch -M main
+   86  git status
+   87  git remote add origin https://github.com/perdanacahya/latihandevops.git
+   88  git push -u origin main
+   89  git status
+   90  ls
+   91  ls -lrt
+   92  history
+   93  cd latihandevops/
+   94  cd ..
+   95  find *sh
+   96  ls
+   97  cd proyek0
+   98  cd proyek01/
+   99  ls
+  100  cd ..
+  101  cd proyek02
+  102  ls
+  103  cat newfile.txt 
+  104  cp newfile.txt \$HOME/latihandevops
+  105  cp newfile.tx ~/latihandevops/
+  106  man cp
+  107  q
+  108  pwd
+  109  ls -lrt
+  110  cp newfile.txt /home/devops/latihandevops/
+  111  cd /home/devops/latihandevops/
+  112  ls
+  113  git status
+  114  git add newfile.txt 
+  115  git commit =m "adding new file to repository"
+  116  git commit -m "adding new file to repository"
+  117  git status
+  118  git push
+  119  cd ..
+  120  mkdir exercise_git
+  121  cd exercise_git
+  122  git remote -v
+  123  cd ..
+  124  cd latihandevops/
+  125  git remote -v
+  126  history
+  127  history >> hist07042021
